@@ -1,3 +1,3 @@
-# My Awesome Book
+# Notes on ES2015 Attributes
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is just a note to self for upgrades to the latest JavaScript version ES2015. Language attributes and best practices.
