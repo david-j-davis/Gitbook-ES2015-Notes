@@ -15,3 +15,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 ## Constants are block-scoped, much like variables defined using the let statement. The value of a constant cannot change through re-assignment, and it can't be redeclared.
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+
+## let: the exception
+
+https://remysharp.com/2016/08/09/var-const-let#-let-the-exception
