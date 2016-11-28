@@ -29,5 +29,3 @@ var sarath = new Person('Sarath');
 
 sarath.sayHello();
 {% endtonic %}
-
-    //babel es6-compile.js --out-file es6.js
