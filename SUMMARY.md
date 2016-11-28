@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Summary](SUMMARY.md)
-* Variables
+* [Variables](variables.md)
 
