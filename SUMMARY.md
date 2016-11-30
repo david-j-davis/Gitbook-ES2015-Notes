@@ -4,4 +4,5 @@
 * [Summary](SUMMARY.md)
 * [Variables](variables.md)
 * [Classes](classes.md)
+* Templates
 
