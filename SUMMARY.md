@@ -9,5 +9,5 @@
 * [Functions](functions.md)
 * [Destructuring](Destructuring.md)
 * [For Of Loops](for-of.md)
-* Default Parameters
+* [Default Parameters](default-parameters.md)
 
