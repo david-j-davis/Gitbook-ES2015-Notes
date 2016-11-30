@@ -7,4 +7,5 @@
 * [Templates](templates.md)
 * [Rest Parameters](rest-params.md)
 * [Functions](functions.md)
+* Destructuring
 
