@@ -5,5 +5,5 @@
 * [Variables](variables.md)
 * [Classes](classes.md)
 * [Templates](templates.md)
-* Rest Parameters
+* [Rest Parameters](rest-params.md)
 
