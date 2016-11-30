@@ -1,4 +1,5 @@
 #Template Strings
+Concatenating strings in JavaScript has lead to a lot of confusion. With Template Strings we can safely construct strings with ease.
 
 
       const student = { name: 'James', followerCount: 34 };

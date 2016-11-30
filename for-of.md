@@ -1,4 +1,5 @@
 #For Of Loop
+A new way to loop over items in an iterable like String, Array, Set, and Map
       let teachers = [
           { name: 'Ken', comments: 'Amazing', rating: 4 },
           { name: 'James', comments: 'Astounding', rating: 3 },
