@@ -6,4 +6,5 @@
 * [Classes](classes.md)
 * [Templates](templates.md)
 * [Rest Parameters](rest-params.md)
+* Functions
 
