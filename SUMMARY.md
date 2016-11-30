@@ -8,4 +8,5 @@
 * [Rest Parameters](rest-params.md)
 * [Functions](functions.md)
 * [Destructuring](Destructuring.md)
+* For Of Loops
 
